@@ -12,4 +12,3 @@ jobs:
     trigger: true
   - task: tests
     file: flight-school/build.yml
-    bob
